@@ -51,8 +51,6 @@ public class GameManager : MonoBehaviour
     public void RestartGame()
     {
         LevelManager.RestartLevel();
-
-        GameStarted = true;
         UIManager.Instance.RestartLevel();
         PlayerController.Instance.ResetPlayer();
     }
