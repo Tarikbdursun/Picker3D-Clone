@@ -25,4 +25,4 @@
 - If player reaches the designated number of collected objects, a button appears tp proceed to the next level
 - If player can not reach the designated number of collected objects, a button appears to replay same level.
 
-https://user-images.githubusercontent.com/78389710/158803500-6ffd6500-a34b-42f5-a424-dd56f48870f9.mp4
+https://user-images.githubusercontent.com/78389710/158894425-d17b08ef-44a4-4bf4-945e-eb5528c24d8b.mp4
