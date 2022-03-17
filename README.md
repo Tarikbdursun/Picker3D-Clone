@@ -3,7 +3,7 @@
 
 >In this game, we aim to complete the levels by collecting the balls with the help of the picker.
 
-I drew Picker with Paint 3D therefore I had some trouble with the box colliders.
+
 
 >Architecture Steps
   - Start Screen (start)
